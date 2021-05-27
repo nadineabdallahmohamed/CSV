@@ -1,4 +1,4 @@
-package stream;
+package CSV;
 
 public class Cities {
 
